@@ -475,3 +475,4 @@ If you believe content in this repository infringes your rights, please see
 ## License
 
 Dual-licensed under [MIT](LICENSE-MIT) or [Apache 2.0](LICENSE-APACHE), at your option.
+Learning Git with Phase.rs!
